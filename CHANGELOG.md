@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/zcstarr/zksync-tax-helper/compare/1.0.3...1.0.4) (2022-04-05)
+
+
+### Bug Fixes
+
+* add clarifying caveats to starting the DAO ([cf1a1c9](https://github.com/zcstarr/zksync-tax-helper/commit/cf1a1c9b5114fc4d8764d906af71f209e003a414))
+* add script tag for cli ([e63df6d](https://github.com/zcstarr/zksync-tax-helper/commit/e63df6d090d404185e25cb95161c4113f8a84987))
+
 ## [1.0.3](https://github.com/zcstarr/zksync-tax-helper/compare/1.0.2...1.0.3) (2022-04-05)
 
 
