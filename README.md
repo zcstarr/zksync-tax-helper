@@ -2,13 +2,6 @@
 
 Generate cointracker compatible csvs for your zksync transactions.
 
-<center>
-  <span>
-    <img alt="GitHub release" src="https://img.shields.io/github/release/zcstarr/zksync-tax-helper.svg" />
-    <img alt="GitHub commits since latest release" src="https://img.shields.io/github/commits-since/zksync-tax-helper/latest.svg" />
-  </span>
-</center>
-
 ## Table of Contents
   - [About The Project](#about-the-project)
   - [Getting Started](#getting-started)
