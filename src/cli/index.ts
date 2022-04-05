@@ -1,6 +1,6 @@
 import { Command } from "commander";
 import { ethers } from "ethers";
-import generateCSV from "../lib";
+import { generateCSV } from "../lib";
 
 const program = new Command();
 
