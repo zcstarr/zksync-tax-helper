@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/zcstarr/zksync-tax-helper/compare/1.0.2...1.0.3) (2022-04-05)
+
+
+### Bug Fixes
+
+* fix public access ([636b7bb](https://github.com/zcstarr/zksync-tax-helper/commit/636b7bbda46c90c7c6fb5dc602a9f88dedd98632))
+
 ## [1.0.2](https://github.com/zcstarr/zksync-tax-helper/compare/1.0.1...1.0.2) (2022-04-05)
 
 
