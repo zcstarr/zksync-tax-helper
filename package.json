@@ -21,7 +21,7 @@
     "zksync": "^0.12.0-alpha.6"
   },
   "bin": {
-    "zktax-csv": "./build/src/cli/index.js"
+    "zktax-csv": "build/src/cli/index.js"
   },
   "devDependencies": {
     "@qiwi/semantic-release-gh-pages-plugin": "^5.1.1",

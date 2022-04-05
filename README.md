@@ -51,6 +51,8 @@ DAO that's focus and duration is to achieve a short term goal. A DAO treasury is
 For the next 2 weeks until 04/19/2022 the Pico DAO for the Zsync Tax Helper will be active.
 Ultimately the goal is to improve the code in this repo and generate some net good and experiment with short term focused collaborative decision making. 
 
+Minimum number of 3 separate contributors to the repo to activate the DAO!
+
 ### How it works
 Any contribution to the project that gets merged, makes you a member of the DAO. Being a member gets you a cut of the DAO treasury funds.
 0. Must use a git account with some history
@@ -82,7 +84,9 @@ Finally if there is a general consensus on the results of the vote, we ratify an
 and the funds split by total points percentage
 
 ### In practice
-Let's find out make a PR and let's go. If something doesn't work with this process we'll create an issue and try and quickly adjust through rough consensus.
+Let's find out make a PR and let's go. If something doesn't work with this process we'll create an issue and try and quickly adjust through rough consensus. There is a required minimum of 3 members of the DAO to get started. Additionally there is a minimum code impact score of 7 to activate the DAO, so fixing 3 typos with
+a code impact score of 1 won't activate the DAO the minimal total impact to activate the DAO must be 7. 
+
 
 ## Roadmap
 See the [open issues](https://github.com/zcstarr/zksync-tax-helper/issues) for a list of proposed features (and known issues).
