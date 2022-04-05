@@ -31,7 +31,7 @@ nodejs v15.x.x or greater
 ```
 ### Installation
 ```
-npm install -g @zcstarr/zksync-tax-helper 
+npm install -g zksync-tax-helper 
 zktax-csv --help
 ```
 - Grab all your transactions 
