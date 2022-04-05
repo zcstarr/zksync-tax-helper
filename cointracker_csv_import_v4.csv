@@ -1,0 +1,5 @@
+Date,Received Quantity,Received Currency,Sent Quantity,Sent Currency,Fee Amount,Fee Currency,Tag
+06/14/2017 20:57:35,0.5,BTC,4005.8,USD,0.00001,BTC
+08/19/2017 10:05:15,0.3,BTC,3,ETH,
+08/21/2017 12:00:00,,,3,ETH,0.0001,ETH,gift
+08/30/2017 12:01:30,3,ETH,,,,,mined
