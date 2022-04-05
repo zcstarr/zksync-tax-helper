@@ -82,7 +82,7 @@ Finally if there is a general consensus on the results of the vote, we ratify an
 and the funds split by total points percentage
 
 ### In practice
-Let's find out make a PR and let's go.
+Let's find out make a PR and let's go. If something doesn't work with this process we'll create an issue and try and quickly adjust through rough consensus.
 
 ## Roadmap
 See the [open issues](https://github.com/zcstarr/zksync-tax-helper/issues) for a list of proposed features (and known issues).
